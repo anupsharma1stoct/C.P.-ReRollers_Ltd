@@ -1,0 +1,91 @@
+
+1) Custom header section:-
+The section to be divided into 3 columns.
+Col 1: Custom title
+Col 2: Main menu
+Col 3: Take a row and divide it into 2 columns:
+       Col 1: Custom title
+       Col 2: Social icons
+
+
+2) Banner section :-
+Set the background image to the entire section.
+Divide the section into 2 columns:
+Col 1: Custom title for the 1st text, 
+       Custom title for the 2nd text, 
+       Custom title for the 3rd text, 
+       Colored button.
+
+
+3) 3rd section or 'About C.P. Re-Rollers Ltd' section:-
+Set the background-color of the entire section white.
+The section to be devided into 2 columns:
+Col 1: Single image, 
+       Custom title,
+       Take a row right below the Custom title and divide it into 3 colomns:
+       Col 1: Single image
+       Col 2: Single image, Col 3: Single image
+       Col 2: 5 Custom titles for the given 5 texts.
+
+
+4) 'Our Products' section :-
+Set the background image to the entire section.
+Col 1: Custom title, Posts List (Blog)
+
+
+5) 'CPC Durgapur TMT vs TOR Steel' :-
+Set the background-color of the entire section white.
+Col 1: Custom title,
+       Take a row and divide it into 3 columns:
+       Col 1: 9 Custom titles with alternate background color
+       Col 2: 9 Custom titles with alternate background color
+       Col 3: 9 Custom titles with alternate background color
+
+
+6) 'Our Clients' section :-
+Set the background image to the entire section.
+Col 1: Custom title,
+       Custom title,
+       Take a row and divide it into 6 columns:
+       Col 1: Single image
+       Col 2: Single image
+       Col 3: Single image
+       Col 4: Single image
+       Col 5: Single image
+       Col 6: Single image
+
+
+7) 'Download our Brochure here' section :-
+Divide the section into 2 columns:
+Col 1: Take a row and divide it into 2 columns:
+       Set the given background-color to the row.
+       Col 1: Custom title
+       Col 3: Colored button
+Col 2: Set the given background-color to the row,
+       Custom title
+
+
+8) Custom Footer section :-
+Set the background-color of the entire section white.
+Divide the section into 3 columns:
+Col 1: 'Single image' elemenet of WPBakery,
+       Custom title
+Col 2: Custom title,
+       Main menu,
+       Take a row and divide it into 3 columns:
+       Col 1: Custom title
+       Col 2: Social icons
+       Col 3: Custom title
+Col 3: Custom title,
+       Custom title,
+       Custom title
+       
+
+
+
+       
+
+
+  
+
+
